@@ -18,3 +18,11 @@ Aplicação de interação com o usuário desenvolvida a partir do package Node.
 ## 🎯 Objetivo
 
 Colocar em prática os conhecimentos do módulo III com a utilização de banco de dados relacionais utilizando a linguagem SQL, com as informações reunidas da database da NBA nos propomos à partir para um desenvolvimento frontend para exibir estes resultados.
+
+##  🛠️ Tecnologias utilizadas
+<div style ="display:inline_block"><br/>
+    <img align = 'center' alt='VSCode' src = 'https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'>
+    <img align = 'center' alt='JavaScript' src = 'https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+    <img align = 'center' alt='Node' src = 'https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
+    <img align = 'center' alt='NPM' src = 'https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'>
+</div>
