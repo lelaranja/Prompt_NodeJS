@@ -26,3 +26,21 @@ Colocar em prática os conhecimentos do módulo III com a utilização de banco 
     <img align = 'center' alt='Node' src = 'https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
     <img align = 'center' alt='NPM' src = 'https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'>
 </div>
+
+## ⌨️ 'prompt-sync'
+
+Documentação da biblioteca: [NPM: prompt-sync](https://www.npmjs.com/package/prompt-sync)
+
+    // instalar 'prompt-sync'
+
+    npm i prompt-sync
+    
+    // implementação 'prompt-sync'
+    
+    import promptSync from 'prompt-sync';
+    const prompt = promptSync();
+    const entra = prompt('Insira a entrada: ');
+
+
+A biblioteca 'prompt-sync' é um *prompt* de sincronização para **Node.js**, permitindo que programa receba valores digitados pelo usuário via terminal de comando. <br>
+
