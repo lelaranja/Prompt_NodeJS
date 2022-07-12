@@ -1,0 +1,16 @@
+{
+  "name": "sprint_semana",
+  "version": "1.0.0",
+  "description": "Sprint Semanal - Prompt Node JS",
+  "main": "sprintPrompt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "prompt",
+    "npm"
+  ],
+  "author": "LJL",
+  "license": "ISC"
+}
