@@ -1,9 +1,13 @@
-import prompt from 'prompt-sync';
+import promptSync from 'prompt-sync'; 
+const prompt = promptSync(); 
+let entry = prompt('Insira a entrada: ');
 
 let arr = [];
 
-let entry = prompt('Insira a entrada: ');
-
-while(entry.toUpperCase() !== 'Sair'){
-    
+while(entry !== 'Sair'){
+    arr.push(entry)
+    entry = prompt('Insira a entrada: ');
+    break
 }
+
+console.log(arr.sort());
